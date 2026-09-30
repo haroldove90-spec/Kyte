@@ -1,0 +1,6 @@
+{
+  "name": "Punto de venta movil",
+  "description": "Punto de venta y caja móvil con catálogo, pedidos, tickets por WhatsApp y operación offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
